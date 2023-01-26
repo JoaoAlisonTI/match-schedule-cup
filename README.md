@@ -18,8 +18,10 @@ Desenvolvido durante o evento NLW - COPA, promovido pela Rocketseat 🚀⚡. <br
 <br>
 
 <p align="center">
-  <img alt="Calendário de Jogos" src=".github/" width="100%">
+  <img alt="Calendário de Jogos" src="assets/preview.jpg" width="100%">
 </p>
+
+</br>
 
 ## ⚙️👨‍💻 Tecnologias
 
@@ -34,11 +36,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Match Schedule foi desenvolvido com o tema da Copa do Mundo 2022 ⚽. Tem como objetivo mostrar quais partidas iriam ocorrer durante a semana e com os respectivos horários. Os cards das partidas são adicionados pelo Javascript. Bem, o código pode servir de base para outros projetos envolvendo calendário de jogos, eventos ou para outras ideias e necessidades que surgirem.
 
-- [Acesse o projeto finalizado, online ☁️]()
+- [Acesse o projeto finalizado, online ☁️](https://joaoalisonti.github.io/match-schedule-cup/)
 
 ## 🖼️ Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/03ZIAlTp51ygGF4NlBxSCC/NLW-Copa-Explorer-Copy?fuid=1125594134680598253). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
